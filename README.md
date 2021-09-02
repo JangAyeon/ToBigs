@@ -14,7 +14,7 @@
 | 3week | 의사결정나무 \(1\) |  [과제](https://github.com/JangAyeon/ToBigs/blob/master/%EC%A0%95%EA%B7%9C%EC%84%B8%EC%85%98_Hw/%5B3%5DDT_1.ipynb) |
 | 3week | 의사결정나무 \(2\) |  [과제](https://github.com/JangAyeon/ToBigs/blob/master/%EC%A0%95%EA%B7%9C%EC%84%B8%EC%85%98_Hw/%5B3%5DDT_2.ipynb) | 
 | 4week | SVM |  [과제](https://github.com/JangAyeon/ToBigs/blob/master/%EC%A0%95%EA%B7%9C%EC%84%B8%EC%85%98_Hw/%5B4%5DSVM.ipynb) |
-| 4week | Ensemble) | [과제](https://github.com/JangAyeon/ToBigs/blob/master/%EC%A0%95%EA%B7%9C%EC%84%B8%EC%85%98_Hw/%5B4%5DEnsemble.ipynb) |
+| 4week | Ensemble | [과제](https://github.com/JangAyeon/ToBigs/blob/master/%EC%A0%95%EA%B7%9C%EC%84%B8%EC%85%98_Hw/%5B4%5DEnsemble.ipynb) |
 | 5week | 차원축소 \(1\) | [과제](https://github.com/JangAyeon/ToBigs/blob/master/%EC%A0%95%EA%B7%9C%EC%84%B8%EC%85%98_Hw/%5B5%5DPCA_1.ipynb) |
 | 5week | 차원축소 \(2\)| [과제](https://github.com/JangAyeon/ToBigs/blob/master/%EC%A0%95%EA%B7%9C%EC%84%B8%EC%85%98_Hw/%5B5%5DPCA_2.ipynb) |
 | 5week | 크롤링 | [과제](https://github.com/JangAyeon/ToBigs/blob/master/%EC%A0%95%EA%B7%9C%EC%84%B8%EC%85%98_Hw/%5B5%5DCrawling.ipynb)  |
